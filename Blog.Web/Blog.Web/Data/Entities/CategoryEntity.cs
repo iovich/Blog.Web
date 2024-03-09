@@ -1,6 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-//using Blog.Web.Data.Entities;
 
 namespace Blog.Web.Data.Entities
 {
@@ -20,6 +19,5 @@ namespace Blog.Web.Data.Entities
         public string Description { get; set; }
 
         public virtual ICollection<PostEntity> Posts { get; set; }
-        //public bool IsDeleted { get; internal set; }
     }
 }

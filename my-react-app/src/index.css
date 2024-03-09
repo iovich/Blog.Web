@@ -1,0 +1,25 @@
+.post-list-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.post-item {
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.post-title {
+  font-size: 1.5rem;
+  margin-bottom: 8px;
+}
+
+.post-description {
+  font-size: 1rem;
+  color: #555;
+}
+
+.post-date {
+  color: #888;
+}

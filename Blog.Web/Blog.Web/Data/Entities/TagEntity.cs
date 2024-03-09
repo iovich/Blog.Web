@@ -1,6 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
-//using WebRozetka.Data.Entities;
 
 namespace Blog.Web.Data.Entities
 {

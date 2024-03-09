@@ -1,5 +1,4 @@
 ﻿using Blog.Web.Data.Entities;
-//using Blog.Web.Data.Entities.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
